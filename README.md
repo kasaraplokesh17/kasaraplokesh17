@@ -47,7 +47,7 @@
 
 ## 📂 Featured Projects
 
-### 🌿 Traffic Lights Detection and Classification Using Resnet50
+### 🚦 Traffic Lights Detection and Classification Using Resnet50
 AI-based system to detect traffic lights using image classification.
 
 **Highlights**
