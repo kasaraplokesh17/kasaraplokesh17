@@ -47,13 +47,12 @@
 
 ## 📂 Featured Projects
 
-### 🌿 Guava Disease Detection using CNN
-AI-based system to detect plant diseases using image classification.
+### 🌿 Traffic Lights Detection and Classification Using Resnet50
+AI-based system to detect traffic lights using image classification.
 
 **Highlights**
 - Automated feature extraction
 - High accuracy predictions
-- Real-world agriculture application  
 
 **Tech:** `Python` `TensorFlow` `OpenCV`  
 
